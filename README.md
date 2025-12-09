@@ -24,12 +24,17 @@ Performance evaluation (standard + optimized threshold)
 Saving results & trained model
 All outputs are automatically stored in a results folder.
 📁 2. Project Structure
+
 project_folder/
 │
+
 ├── smell_detector.py
+
 ├── DAMIR-PURE.csv
+
 └── results_hybrid/        # created after running the script
-🧠 3. Methodology
+
+ 3. Methodology
 A. Linguistic Features
 The script extracts handcrafted features such as:
 Pronouns
